@@ -29,7 +29,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "6Y1yg_ifbY6g",
+        "id": "EduG0mqCgMdY",
         "colab_type": "text"
       },
       "source": [
@@ -39,13 +39,10 @@
     {
       "cell_type": "code",
       "metadata": {
-        "id": "tvvrcBhvbY6i",
+        "id": "W3BbD4XrgMdb",
         "colab_type": "code",
-        "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 139
-        },
-        "outputId": "12cb8699-e24b-425c-d6c5-aca4373efde5"
+        "colab": {},
+        "outputId": "711140f4-767b-40ec-86ab-518985e5274f"
       },
       "source": [
         "#check if notebook runs in colab\n",
@@ -60,18 +57,12 @@
         "  import sys\n",
         "  sys.path.append(path+'/Exercises/')"
       ],
-      "execution_count": 1,
+      "execution_count": 0,
       "outputs": [
         {
           "output_type": "stream",
           "text": [
-            "running in Colab: True\n",
-            "Cloning into 'DataScienceSS20'...\n",
-            "remote: Enumerating objects: 352, done.\u001b[K\n",
-            "remote: Total 352 (delta 0), reused 0 (delta 0), pack-reused 352\u001b[K\n",
-            "Receiving objects: 100% (352/352), 63.03 MiB | 24.79 MiB/s, done.\n",
-            "Resolving deltas: 100% (120/120), done.\n",
-            "Checking out files: 100% (161/161), done.\n"
+            "running in Colab: False\n"
           ],
           "name": "stdout"
         }
@@ -80,7 +71,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "RfiMAAf4bY7H",
+        "id": "lb2DIEacgMd-",
         "colab_type": "text"
       },
       "source": [
@@ -103,15 +94,36 @@
     {
       "cell_type": "code",
       "metadata": {
-        "id": "2I5KYi0cbY7P",
+        "id": "sa3vn2GjgMeK",
         "colab_type": "code",
-        "colab": {}
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        },
+        "outputId": "a5e109e5-46e6-4da9-c71b-7a2cbab16593"
       },
       "source": [
-        "import ListKeeperModule"
+        "import ListKeeperModule\n",
+        "\n",
+        "lk = ListKeeperModule.ListKeeper()\n",
+        "\n",
+        "lk.show()"
       ],
-      "execution_count": 0,
-      "outputs": []
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "['example']"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 7
+        }
+      ]
     }
   ]
 }
