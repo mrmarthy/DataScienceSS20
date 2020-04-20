@@ -100,28 +100,32 @@
           "base_uri": "https://localhost:8080/",
           "height": 34
         },
-        "outputId": "a5e109e5-46e6-4da9-c71b-7a2cbab16593"
+        "outputId": "8a2a8785-8f8e-410c-b80d-770b6e331d39"
       },
       "source": [
         "import ListKeeperModule\n",
         "\n",
         "lk = ListKeeperModule.ListKeeper()\n",
         "\n",
+        "lk.add(\"animals\", [\"dog\", \"zebra\", \"cat\", \"mouse\", \"rabbit\"])\n",
+        "\n",
+        "lk.sort(\"animals\")\n",
+        "\n",
         "lk.show()"
       ],
-      "execution_count": 7,
+      "execution_count": 8,
       "outputs": [
         {
           "output_type": "execute_result",
           "data": {
             "text/plain": [
-              "['example']"
+              "['example', 'animals']"
             ]
           },
           "metadata": {
             "tags": []
           },
-          "execution_count": 7
+          "execution_count": 8
         }
       ]
     }
