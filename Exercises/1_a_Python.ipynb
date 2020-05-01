@@ -29,7 +29,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "EduG0mqCgMdY",
+        "id": "lqka5QR0CDJ9",
         "colab_type": "text"
       },
       "source": [
@@ -39,10 +39,13 @@
     {
       "cell_type": "code",
       "metadata": {
-        "id": "W3BbD4XrgMdb",
+        "id": "8VmY-9ruCDKA",
         "colab_type": "code",
-        "colab": {},
-        "outputId": "711140f4-767b-40ec-86ab-518985e5274f"
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 104
+        },
+        "outputId": "7c306b82-46c1-4b05-c436-bcd1a6e455c4"
       },
       "source": [
         "#check if notebook runs in colab\n",
@@ -52,17 +55,24 @@
         "path='..'\n",
         "if IN_COLAB:\n",
         "  #in colab, we need to clone the data from the repo\n",
-        "  !git clone https://github.com/keuperj/DataScienceSS20.git\n",
+        "  !git clone https://github.com/mrmarthy/DataScienceSS20.git\n",
+        "  %cd DataScienceSS20/\n",
+        "  !git checkout mrmarthy-solution\n",
+        "  %cd ..\n",
         "  path='DataScienceSS20'\n",
         "  import sys\n",
         "  sys.path.append(path+'/Exercises/')"
       ],
-      "execution_count": 0,
+      "execution_count": 13,
       "outputs": [
         {
           "output_type": "stream",
           "text": [
-            "running in Colab: False\n"
+            "running in Colab: True\n",
+            "fatal: destination path 'DataScienceSS20' already exists and is not an empty directory.\n",
+            "/content/DataScienceSS20/Exercises/DataScienceSS20\n",
+            "error: pathspec 'mrmarthy-solution' did not match any file(s) known to git.\n",
+            "/content/DataScienceSS20/Exercises\n"
           ],
           "name": "stdout"
         }
@@ -71,7 +81,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "lb2DIEacgMd-",
+        "id": "9i8tl3EeCDKQ",
         "colab_type": "text"
       },
       "source": [
@@ -94,40 +104,48 @@
     {
       "cell_type": "code",
       "metadata": {
-        "id": "sa3vn2GjgMeK",
+        "id": "dd5VeL7WCDKW",
         "colab_type": "code",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 34
         },
-        "outputId": "8a2a8785-8f8e-410c-b80d-770b6e331d39"
+        "outputId": "ecd8c1e6-74db-4321-9f79-a822cae86887"
       },
       "source": [
         "import ListKeeperModule\n",
         "\n",
         "lk = ListKeeperModule.ListKeeper()\n",
-        "\n",
-        "lk.add(\"animals\", [\"dog\", \"zebra\", \"cat\", \"mouse\", \"rabbit\"])\n",
-        "\n",
-        "lk.sort(\"animals\")\n",
-        "\n",
         "lk.show()"
       ],
-      "execution_count": 8,
+      "execution_count": 16,
       "outputs": [
         {
           "output_type": "execute_result",
           "data": {
             "text/plain": [
-              "['example', 'animals']"
+              "['example']"
             ]
           },
           "metadata": {
             "tags": []
           },
-          "execution_count": 8
+          "execution_count": 16
         }
       ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "Q9IjjzS3D7oZ",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
     }
   ]
 }
