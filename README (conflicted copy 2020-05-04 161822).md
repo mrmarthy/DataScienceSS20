@@ -47,8 +47,12 @@ Please upload your solutions via Moodle!
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 2_a](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
-* [Exercise 2_b](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
+
+* [Exercise 2_a](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb) [--Solution--](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/2_a_Solution.ipynb)
+
+* [Exercise 2_b](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb) [--Solution--](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/2_b-Solution.ipynb)
+
+
 
 ## Block 3 - Data Wrangling
 
@@ -73,9 +77,50 @@ Please upload your solutions via Moodle!
 * [Pandas Intro Part 7](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
 
 ### Exercises
-* [3_a_Basic Pandas](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)
-* [3_b_Baby Names](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)
-* [3_c_Titanic](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )
-* [3_d_GroupBy I](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
-* [3_e_GroupBy II](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
-* [3_f_GroupBy III](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+
+* [3_a_Basic Pandas](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)[ -- solution --](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_a_solution.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)[ -- solution --](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_b_solution.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )[ -- solution --](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_c_solution.ipynb)
+* [3_d_GroupBy I](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
+* [3_e_GroupBy III](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
+
+## Block 4 - Machine Learning I-II
+
+### Static Slides
+* [Data Storage](Slides/04_a_Data_Storage.pdf)
+* [Machine Learning I - Intro](Slides/04-b_Machine_Learning_I.pdf)
+* [Machine Learning II - Clustering](Slides/04_c_Machine_Learning_II.pdf)
+* [Scikit-Learn](Slides/04_f_Lab_Scikit-Learn.pdf)
+
+
+### Notebooks
+* [Data Storage](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Notebooks/04_a_Data_Storage.ipynb)
+* [Use Case: Clustering](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Notebooks/04_d_UseCase_NY_Taxy_II.ipynb)
+
+### Lab
+* [HDF5](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Notebooks/04_e_Lab_HDF5.ipynb)
+* [Scikit-Learn](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Notebooks/04_f_Lab_Scikit_Learn.ipynb)
+
+
+### Exercises
+* [4_g_Clustering_I](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb)
+* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb)
+
+
+## Block 5 - Machine Learning III-IV
+
+### Static Slides
+* [Statistics II](Slides/05_a_Statistics_II.pdf)
+* [Machine Learning III - Naive Bayes](Slides/05_b_Machine_Learning_III_bayes.pdf)
+* [Machine Learning IV - Linear Models](Slides/05_c_Machine_Learning_IV_linear.pdf)
+
+
+### Notebooks
+* [Statistics II](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
+
+### Exercises
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)
+
+>>>>>>> upstream/master
