@@ -148,3 +148,17 @@ Please upload your solutions via Moodle!
 * [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)
 * [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)
 
+## Block 8 - Deep Learnig
+
+### Static Slides
+* [Text Analysis](Slides/08_a_Text_Analysis.pdf)
+* [Graph Analysis](Slides/08_b_Graph_Analysis.pdf)
+* [Recommender Systems III](Slides/08_c_Recommender_Systems_III.pdf)
+
+
+### Notebooks
+* [Use Case: Social Media Graph Analysis](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/08_c_Network_Usecase.ipynb)
+* [Tutorial: NetworkX](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/08_b_NetworkX_Tutorial.ipynb)
+
+### Exercises
+* no exercises -> project work
