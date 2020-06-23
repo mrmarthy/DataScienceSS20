@@ -79,3 +79,87 @@ Please upload your solutions via Moodle!
 * [3_d_GroupBy I](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
 * [3_e_GroupBy II](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
 * [3_f_GroupBy III](https://colab.research.google.com/github/mrmarthy/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+
+## Block 4 - Machine Learning I-II
+
+### Static Slides
+* [Data Storage](Slides/04_a_Data_Storage.pdf)
+* [Machine Learning I - Intro](Slides/04-b_Machine_Learning_I.pdf)
+* [Machine Learning II - Clustering](Slides/04_c_Machine_Learning_II.pdf)
+* [Scikit-Learn](Slides/04_f_Lab_Scikit-Learn.pdf)
+
+
+### Notebooks
+* [Data Storage](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/04_a_Data_Storage.ipynb)
+* [Use Case: Clustering](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/04_d_UseCase_NY_Taxy_II.ipynb)
+
+### Lab
+* [HDF5](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/04_e_Lab_HDF5.ipynb)
+* [Scikit-Learn](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/04_f_Lab_Scikit_Learn.ipynb)
+
+
+### Exercises
+* [4_g_Clustering_I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb) [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I_solution.ipynb)
+* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb) [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II_solution.ipynb)
+
+
+## Block 5 - Machine Learning III-IV
+
+### Static Slides
+* [Statistics II](Slides/05_a_Statistics_II.pdf)
+* [Machine Learning III - Naive Bayes](Slides/05_b_Machine_Learning_III_bayes.pdf)
+* [Machine Learning IV - Linear Models](Slides/05_c_Machine_Learning_IV_linear.pdf)
+
+
+### Notebooks
+* [Statistics II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
+
+### Exercises
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
+
+
+## Block 6 - Machine Learning V-VII
+
+### Static Slides
+* [Machine Learning V - Non-Linear Models I](Slides/06_a_Machine_Learning_V_nonlinear_models_part_I.pdf)
+* [Machine Learning V - Non-Linear Models II - SVM](Slides/06_b_Machine_Learning_V_nonlinear_models_part_II.pdf)
+* [Machine Learning VI - Outlier Detection](Slides/06_c_Machine_Learning_VI_outlier_detection.pdf)
+* [Machine Learning VII - Model Selectionn](Slides/06_d_Machine_Learning_VII_Model_Selection.pdf)
+* [Python Lambda Expressions](Slides/06_e_Python_lambda.pdf)
+
+### Notebooks
+* [Python Lambda Expressions](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/06_Lambda_Operators.ipynb)
+
+### Exercises
+* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification_solution.ipynb)
+* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
+
+## Block 7 - Deep Learnig
+
+### Static Slides
+* [Feature Extraction ](Slides/07_a_Machine_Learning_VII_Feature_Extraction.pdf)
+* [Introduction to Deep Learning](Slides/07_b_Deep_Learning_Introduction.pdf)
+
+### Notebooks
+* [Keras Intro](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
+
+### Exercises
+* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
+* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
+
+
+## Block 8 - Deep Learnig
+
+### Static Slides
+* [Text Analysis](Slides/08_a_Text_Analysis.pdf)
+* [Graph Analysis](Slides/08_b_Graph_Analysis.pdf)
+* [Recommender Systems III](Slides/08_c_Recommender_Systems_III.pdf)
+
+
+### Notebooks
+* [Use Case: Social Media Graph Analysis](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/08_c_Network_Usecase.ipynb)
+* [Tutorial: NetworkX](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/08_b_NetworkX_Tutorial.ipynb)
+
+### Exercises
+* no exercises -> project work
